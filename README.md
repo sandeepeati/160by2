@@ -5,4 +5,4 @@ usage example:
 
 myaccount = freesms('your 160by2 username', 'your 160by2 account password')
 
-myaccount.sendsms('reciepient phone number', 'message to be delivered')
+myaccount.sendsms('recipient phone number', 'message to be delivered')
